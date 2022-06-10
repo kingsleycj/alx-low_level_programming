@@ -3,12 +3,12 @@
 
 /**
  * main - Check description
- * Description: It prints the word Holberton, followed by a new line.
+ * Description: It prints _putchar, followed by a new line.
  * Return: 0.
  */
 int main(void)
 {
-	char word[4] = "main";
+	char word[8] = "_putchar";
 	int i;
 
 	for (i = 0; i < 4; i++)
