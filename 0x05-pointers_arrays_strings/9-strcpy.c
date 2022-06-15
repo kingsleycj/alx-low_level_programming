@@ -16,7 +16,3 @@ char *_strcpy(char *dest, char *src)
 		*dest++ = *src++;
 	return (aux);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-
